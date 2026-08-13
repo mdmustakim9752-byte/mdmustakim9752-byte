@@ -5,6 +5,7 @@ def greet_user(user_name):
     print(f"\nHello {user_name}! Main Zoya hu, aapki AI assistant.")
     print("System ekdum perfect chal raha hai. Aaj kya karna hai?")
 
+
 # Program yahan se start hoga
 print("--- System Booting ---")
 name_input = input("Apna naam type karein: ")
